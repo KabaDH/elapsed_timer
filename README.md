@@ -49,4 +49,4 @@ final elapsed = timer.elapsed;
 
 ## Issues
 
-Add link
+Can be found [here](https://github.com/KabaDH/elapsed_timer/issues).
