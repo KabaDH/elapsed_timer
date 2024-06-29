@@ -8,3 +8,7 @@ environment:
 
 dev_dependencies:
   test: ^1.25.7
+
+topics:
+  - timer
+  - elapsed-time
