@@ -1,0 +1,10 @@
+name: elapsed_timer
+description: "A package contains ElapsedTimer, which allows easy access to the elapsed time of your timer."
+version: 0.1.0
+#homepage: https://github.com/KabaDH?tab=repositories
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dev_dependencies:
+  test: ^1.25.7
